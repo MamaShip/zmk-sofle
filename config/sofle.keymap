@@ -50,7 +50,7 @@
 &kp C_MUTE      &kp LEFT_ALT  &kp EQUAL  &kp MINUS  &kp SPACE  &mo 1     &kp ENTER        &kp GRAVE  &kp SPACE  &mo 2      &kp RCTRL  &kp DELETE
             >;
 
-            sensor-bindings = <&inc_dec_kp C_VOLUME_UP C_VOL_DN>;
+            sensor-bindings = <&inc_dec_kp LC(PLUS) LC(MINUS)>;
             display-name = "LAYER0";
         };
 
