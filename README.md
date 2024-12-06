@@ -3,6 +3,9 @@ Update on October 24, 2024: Modified power supply mode to reduce power consumpti
 
 如需3D打印的模型文件或者键盘有任何异常和故障，请联系380465425@qq.com
 If you need the 3D printed model file or if there are any abnormalities with the keyboard, please contact 380465425@qq.com
+
+可视化改键：https://nickcoutsos.github.io/keymap-editor/
+
 # zmk-config-sofle
 
 
